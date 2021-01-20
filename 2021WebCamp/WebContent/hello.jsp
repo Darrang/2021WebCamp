@@ -7,6 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-hello world!
+
+<h1>hello world!</h1>
+<%
+out.print("welcome to jsp!");
+%>
+
 </body>
 </html>
